@@ -38,7 +38,7 @@ dependencies:
   google_mlkit_face_detection: ^0.7.0
 🛠️ Installation
 Clone the repository:
-git clone https://github.com/your-username/flutter-face-detection.git
+git clone https://github.com/shuaibmasri/real_time_face_detection.git
 cd flutter-face-detection
 Install dependencies:
 flutter pub get
